@@ -1,0 +1,36 @@
+Git clone = criar pasta - do git hub para o minha �rea de trabalho
+Ls = listar tudo
+CD e" nome da pasta" = para entrar na pasta
+git status = mostrar o que subir ou n�o. Mostra a branch(o que tenho na pasta)
+git add . = se tiver mais de uma coisa, vai subir tudo.
+git add " nome do arquivo"= subir s� o que quero
+git commit -m "Subindo meu primeiro arquivo" = legenda do arquivo
+git push origin main ou master(a branch) = foi enviado para o gitjub
+Ctrl + l = limpar a tela do terminal
+pwd = diretório past atual
+whoami : identifica usuário que esta logado
+
+
+Comando básicos cmd windows
+Dir = listar tudo
+Cd / = te leva para a base do diretório
+entrar em alguma pasta "Cd e nome da pasta"
+cd .. = retroceder um nível
+cls = para limpar
+mkdir = criar pasta
+criar arquivo dentro da pasta = echo "hello(nome do arquivo)" > hello.txt
+del = deletar arquivo dentro da pasta e não o repositorio
+rmdir = deletar repositorio com tudo que tem dentro
+SENHA NEWSHH = 12345
+USAR GIT CLONE AGORA QUE TENHO O SHH PELO SSH
+ls -a = mostra pastas ocultas
+ git config --global user.email = para logar com o github
+ git config --global user.name =  nome github
+ git status = dizer como o arquivo esta
+ mv = comando para mover ex mv stronof ./ "escrever pasta que quero "
+git config --list = lista de configuação git e aperte "q" para sair
+git config --global --unset user.email = tirr das configuração o email e pedir para se cadastrar novamente,caso queira mudar
+git remote add origin = depois de criar o repositorio no github, usar essa expressão e passar o caminho do github
+git romete -v = listar repositorios
+git pull = puxar contéudo caso der erro de merge(duas pessoas no mesmo códifo efetuado alterações, entrar na pasta para avaliar os erros)
+O comando git init cria um novo repositório do Git.
